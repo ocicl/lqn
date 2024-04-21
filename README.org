@@ -1,0 +1,10 @@
+* lqn
+
+query language and terminal utility for querying and transforming
+Lisp, JSON and other text files. written in Common Lisp
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/inconvergent/lqn.git |
+| commit  | 6d1a0a4                                     |
+| systems | lqn                                         |
+|---------+---------------------------------------------|
