@@ -5,6 +5,6 @@ Lisp, JSON and other text files. written in Common Lisp
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/inconvergent/lqn.git |
-| commit  | acc6722                                     |
+| commit  | de488a0                                     |
 | systems | lqn                                         |
 |---------+---------------------------------------------|
